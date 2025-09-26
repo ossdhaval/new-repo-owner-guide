@@ -16,8 +16,6 @@ Bare minimum README should contain:
 - How to use it? (installation instructions, links to binaries and how to download)
 - Thank you note for your contributors
 
-[Advanced README items]()
-
 ### Licensing
 
 - What does a license do: It controls how others use your code. For example, Can they sell your code and earn money? 
@@ -62,45 +60,37 @@ For quick understanding, check this [video](https://www.youtube.com/watch?v=nFU8
 
 #### Badges
 
-
-
 #### Quick links
 
 #### Mention security policy
 
 ### Automation
 
-#### ReleasePlease
+- Release automation
+  -  ReleasePlease
+  -  Semantic Releases and Tags
+- Automate Inspections
+  -  Lint docs for grammar checks
+  -  Lint code style and convension
+- Automate Quality checks 
+  -  Sonarcloud
+  -  [Google's ossfuzz](https://github.com/google/oss-fuzz?tab=readme-ov-file)
+- Automate Security checks
+  -  Snyk
+- Automate labelling
+- Auto Branch clean up
+- Automate Documentation checks
+- Connect with messaging tools
 
-#### Sonarcloud
-
-#### Security analysis (snyk)
-
-#### auto labeling
-
-#### Branch clean up
-
-#### Mandate documentation declaration, test cases, 
-
-#### Connect with messaging tools
-
-### Dependabot
-
-### SBOM and analysis reports
-
-### Semantic Releases and Tags
-
-### Contribution process
-
-#### Triage
-
-#### labeling strategy
-
-### Code owners
-
-### PR and Issue templates
-
-### ossfuzz
+### Watch your supply chain 
+- Dependabot
+- SBOM and analysis reports
+- 
+- Contribution process
+  - Triage
+  - labeling strategy
+- Code owners
+- PR and Issue templates
 
 ### Static Documentation 
 
