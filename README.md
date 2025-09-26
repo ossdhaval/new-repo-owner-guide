@@ -84,11 +84,17 @@ Most widely used licenses:
 
 #### Triage
 
+#### labeling strategy
+
 ### Code owners
 
 ### PR and Issue templates
 
+### ossfuzz
+
 ### Static Documentation 
+
+### Good practises certified
 
 ### Who is using your software (Repo analytics)
 
