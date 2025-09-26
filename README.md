@@ -56,13 +56,19 @@ For quick understanding, check this [video](https://www.youtube.com/watch?v=nFU8
 
 ## Level Up
 
-### Level Up your README 
+### README 
 
 - Badges
 - Quick links
 - Mention security policy
 
-### Automation
+### Better commits
+
+- Convensional commits
+- DCO
+- GPG signatures
+
+### Automation for efficiancy 
 
 - Release automation
   -  ReleasePlease
@@ -91,7 +97,7 @@ For quick understanding, check this [video](https://www.youtube.com/watch?v=nFU8
 - Code owners
 - PR and Issue templates
 
-### Static Documentation 
+### Static Documentation site
 
 ### Good practises certified
 
