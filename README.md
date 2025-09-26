@@ -3,7 +3,17 @@ Starting your own open source project?? This repo lists important aspects to kee
 
 Content on this repo tends to over simplify concepts to make them easy to understand. Links will be provided if you want to deep dive.
 
-## Licensing
+## Day 1
+
+### README
+
+- What does this repo contain? (code, samples, guides etc)
+- How to use it? (installation instructions, links to binaries and how to download)
+- Thank you note for your contributors
+
+[Advanced README items]()
+
+### Licensing
 
 What does a license do: It controls how others use your code. For example, Can they sell your code and earn money? 
 
@@ -26,14 +36,58 @@ Most widely used licenses:
 
 - Deep dive
 
-## Branch protections
+### Branch protections
 
-## Contribution guide
+### Contribution guide
 
-## Security policy
+### Security policy
 
-## Documentation
+### Documentation
 
-## Collaboration
+### Collaboration
+
+## Level Up
+
+### Level Up your README 
+
+#### Badges
+
+#### Quick links
+
+#### Mention security policy
+
+### Automation
+
+#### ReleasePlease
+
+#### Sonarcloud
+
+#### Security analysis (snyk)
+
+#### auto labeling
+
+#### Branch clean up
+
+#### Mandate documentation declaration, test cases, 
+
+#### Connect with messaging tools
+
+### Dependabot
+
+### SBOM and analysis reports
+
+### Semantic Releases and Tags
+
+### Contribution process
+
+#### Triage
+
+### Code owners
+
+### PR and Issue templates
+
+### Static Documentation 
+
+### Who is using your software (Repo analytics)
 
 - `GitHub discussions` is excellent collaboration tool that is available to you from day one. Many large open source projects use them as their main tool for community collaboration, for instance [Janssen Project](https://jans.io/discussions). Don't wait till you create Slack, Discord for your project. Just start with GitHub discussions with zero time investment. 
