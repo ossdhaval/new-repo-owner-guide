@@ -46,6 +46,8 @@ Most widely used licenses:
 
 ### Collaboration
 
+- `GitHub discussions` is excellent collaboration tool that is available to you from day one. Many large open source projects use them as their main tool for community collaboration, for instance [Janssen Project](https://jans.io/discussions). Don't wait till you create Slack, Discord for your project. Just start with GitHub discussions with zero time investment. 
+
 ## Level Up
 
 ### Level Up your README 
@@ -90,4 +92,4 @@ Most widely used licenses:
 
 ### Who is using your software (Repo analytics)
 
-- `GitHub discussions` is excellent collaboration tool that is available to you from day one. Many large open source projects use them as their main tool for community collaboration, for instance [Janssen Project](https://jans.io/discussions). Don't wait till you create Slack, Discord for your project. Just start with GitHub discussions with zero time investment. 
+
