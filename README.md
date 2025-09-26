@@ -3,8 +3,8 @@ Starting your own open source project?? This repo lists important aspects to kee
 
 Content on this repo tends to over simplify concepts to make them easy to understand. Links will be provided if you want to deep dive.
 
-[Day 1](#day1): Checklist that will help cover basic needs of any repo
-[Level UP](#levelup): When you are not the only one contributing to the repository. You have contributors, community.
+- [Day 1](#day-1): Checklist that will help cover basic needs of any repo
+- [Level UP]([#level-up)): When you are not the only one contributing to the repository. You have contributors, community, team working together.
 
 ## Day 1
 
