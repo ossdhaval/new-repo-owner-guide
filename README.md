@@ -58,11 +58,9 @@ For quick understanding, check this [video](https://www.youtube.com/watch?v=nFU8
 
 ### Level Up your README 
 
-#### Badges
-
-#### Quick links
-
-#### Mention security policy
+- Badges
+- Quick links
+- Mention security policy
 
 ### Automation
 
@@ -85,10 +83,11 @@ For quick understanding, check this [video](https://www.youtube.com/watch?v=nFU8
 ### Watch your supply chain 
 - Dependabot
 - SBOM and analysis reports
-- 
-- Contribution process
-  - Triage
-  - labeling strategy
+
+### Enhance your Contribution process
+- Create a roadmap
+- Establish a triage process
+- labeling strategy
 - Code owners
 - PR and Issue templates
 
